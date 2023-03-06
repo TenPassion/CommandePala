@@ -1,0 +1,4 @@
+Installer AHK
+Extraire le fichier commande à l'emplacement désiré
+Lancer le fichier commande 
+Dans paladium, appuyez sur la touche (au dessus de tab)
